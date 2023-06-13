@@ -40,41 +40,5 @@ public class Carro {
                     "valor:" + valor + '\n';
         }
 
-//    public static class Veiculo {
-//        private String marca;
-//        private String modelo;
-//        private int ano;
-//        private int km;
-//
-//        public Veiculo() {
-//        }
-//
-//        public Veiculo marca(String marca) {
-//            this.marca = marca;
-//            return this;
-//
-//        }
-//
-//        public Veiculo modelo(String modelo) {
-//            this.modelo = modelo;
-//            return this;
-//        }
-//
-//        public Veiculo ano(int ano) {
-//            this.ano = ano;
-//            return this;
-//        }
-//
-//        public Veiculo km(int km) {
-//            this.km = km;
-//            return this;
-//        }
-//
-//        public Carro build() {
-//            return new Carro(this);
-//        }
-//
-//    }
-
 
 }
